@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lavaloon Technical Assessment</string>
+    <string name="no_internet_connection">your internet connection is disabled or enabled but weak.</string>
+    <string name="no_internet_continue">Continue with out of date data</string>
+    <string name="no_connection_try_again">Try Again</string>
+    <string name="no_internet">No Internet</string>
+    <string name="loading_text">Loading Data</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_details_main">Details</string>
+
+</resources>
